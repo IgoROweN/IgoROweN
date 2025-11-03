@@ -48,3 +48,12 @@ Sou estudante de Desenvolvimento de Software Multiplataforma pela Fatec Franca. 
 
 ![Estatísticas do GitHub de IgoROweN](https://github-readme-stats.vercel.app/api?username=IgoROweN&show_icons=true&theme=tokyonight)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=IgoROweN&layout=compact&theme=tokyonight)
+
+
+## 🐍 Minhas Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgoROweN/IgoROweN/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgoROweN/IgoROweN/output/github-snake.svg">
+  <img alt="Animação da Cobrinha de Contribuições do GitHub" src="https://raw.githubusercontent.com/IgoROweN/IgoROweN/output/github-snake.svg">
+</picture>
