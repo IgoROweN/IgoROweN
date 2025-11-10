@@ -40,8 +40,8 @@ Sou estudante de Desenvolvimento de Software Multiplataforma pela Fatec Franca. 
 * [ProjetoReactNative](https://github.com/IgoROweN/ProjetoReactNative) (Linguagem: JavaScript)
     * Um projeto desenvolvido para visualizar personagens da série animada "Rick and Morty". Utilizando a API pública da série.
 
-* [ChatBot_Pizzaria_Utilizando_Rasa](https://github.com/IgoROweN/ChatBot_Pizzaria_Utilizando_Rasa) (Linguagem: Python)
-    * Chatbot para uma pizzaria, usando Rasa (disciplina de Processamento de Linguagem Natural).
+* [bot-whatsapp-lmstudio](https://github.com/IgoROweN/bot-whatsapp-lmstudio) (Linguagem: JavaScript)
+    * Chatbot de Whatsapp utilizando inteligência artificial via LM Studio. (disciplina de Processamento de Linguagem Natural).
 
 
 ## 📊 Minhas Estatísticas no GitHub
